@@ -4,4 +4,5 @@ Understanding the performance of a hotel’s hospitality through its cleanliness
 
 
 TOOLS: MS Excel, R
+
 IDE: RSTUDIO
